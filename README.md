@@ -1,14 +1,14 @@
 # Plant Breeder & Data analyst
-### _Current Position - Data Engineer Co-op - Samsung R&D Canada 
+### _Current Position - Data Engineer Co-op - Samsung R&D Canada_ 
 
 #### Summary: 
 Masters in Computer Science, specializing in Big Data, with 2 years of experience in designing, developing, and optimizing data pipelines and architectures. Proficient in leveraging big data technologies such as Apache Hadoop, Spark, and SQL to drive insights and improve data quality. Demonstrate strong foundation in data modeling, ETL processes, and data warehousing. 
 
 #### Technical Skills:
 
-- Programming Languages: Python, SQL, Java, React JS, R
-- Phenomics and Genomics: Spark, PySpark, MapReduce, Flask
-- Data Science: Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA
+- Programming Languages: _Python, SQL, Java, React JS, R_
+- Phenomics and Genomics: _Spark, PySpark, MapReduce, Flask_
+- Data Science: _Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA_
   
 ## 🎓 Education
 - **M.Sc.**, Computer Science (Big Data) | <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a> (_SEPT 2023 - JUN 2025_)		  		
