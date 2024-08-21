@@ -1,4 +1,4 @@
-# Plant Breeder & Data analyst
+# Data and BI Engineer
 ### _Current Position - Data Engineer Co-op - Samsung R&D Canada_ 
 
 #### Summary: 
@@ -9,13 +9,36 @@ Masters in Computer Science, specializing in Big Data, with 2 years of experienc
 - Programming Languages: _Python, SQL, Java, React JS, R_
 - Phenomics and Genomics: _Spark, PySpark, MapReduce, Flask_
 - Data Science: _Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA_
-  
+
+## 💼 Work experience 
+**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_May 2024 - Present_)**
+- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
+- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
+- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>.
+
+**Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**
+- Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
+- Oversaw the performance of over 200 SSRS and Power BI reports by creating an automated process in SQL that compares the metadata of the reports to the configured schedule to ensure successful execution.
+- Improved the runtime of legacy reports by 50% by rewriting and redesigning SQL queries.
+- Developed SSIS packages to automate ETL processes to support in-hospital replenishment productivity across British Columbia.
+- Facilitated the creation of golden records by building ETL processes to ingest healthcare data from multiple sources.
+
+**Data Solutions Analyst Co-op @ <a href="https://www.worksafebc.com/en" target="_blank">WorkSafeBC</a> (_May 2021 - Apr 2022_)**
+- Identified hundreds of over and underpayments by performing data collection, analysis, and reporting of health care payment data.
+- Applied statistical calculations to determine the ideal sample sizes of health care payment categories using the Z-score of 95% confidence level.
+- Developed excel macros in VBA to automate payment review process, saving 5 hours of manual work for the team each week.
+
+**Research Assistant in Machine Learning @ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**
+- Designed and implemented lean proof of concepts to answer targeted research questions regarding energy use and management.
+- Built a short-term load forecasting model in Python to help the maintenance and scheduling of a power system by predicting energy usage.
+- Developed a fully automated machine learning pipeline to detect anomalous operating states in a power grid with over 95% accuracy.
+
 ## 🎓 Education
 - **M.Sc.**, Computer Science (Big Data) | <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a> (_SEPT 2023 - JUN 2025_)		  		
 - **B.Tech.**, Computer Systems (Database)	| <a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a> (_JAN 2018 - JUN 2023_)	 			        		
 - **B.Sc.**, Computer Science | <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> (_SEPT 2015 - JUN 2017_)
 
-## 🔬 Research Experience
+## 🔬 Projects
 **Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
 - Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
