@@ -39,7 +39,7 @@ Masters in Computer Science, specializing in Big Data, with 2 years of experienc
 - **B.Tech.**, Computer Systems (Database)	| <a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a> (_JAN 2018 - JUN 2023_)	 			        		
 - **B.Sc.**, Computer Science | <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> (_SEPT 2015 - JUN 2017_)
 
-## 🔬 Academic Projects
+## 🏫 Academic Projects
 **Flavour Fusion @<a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>  (_Jan 2024 - May 2024_)**
 - Utilized: Python, Scikit-learn, Selenium, Requests, BeautifulSoup
 - Developed a Python application utilizing the KNN algorithm to recommend recipes based on user comments and review history with 95% accuracy. 
