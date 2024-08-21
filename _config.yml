@@ -1,16 +1,14 @@
-title: Allan V.  # Add a space after the period
+title: Yuyu Lai
 
-logo: 1.png # Use a relative path to logo image 
+logo: samsung.jpg  
 
-description: Data science and AI (Machine Learning) in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
+description: Data Engineer
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
-
-email: albertoogy@gmail.com # Allow visitors to contact you
+email: yuyulai022@gmail.com # Allow visitors to contact you
