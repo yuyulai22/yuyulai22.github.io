@@ -1,23 +1,19 @@
 # Plant Breeder & Data analyst
-### _Current Position - Genetics Intern - Syngenta_ 
+### _Current Position - Data Engineer Co-op - Samsung R&D Canada 
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
-#### Publication Statistics:
-Cumulative Impact Factor: **34.171**
-
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Masters in Computer Science, specializing in Big Data, with 2 years of experience in designing, developing, and optimizing data pipelines and architectures. Proficient in leveraging big data technologies such as Apache Hadoop, Spark, and SQL to drive insights and improve data quality. Demonstrate strong foundation in data modeling, ETL processes, and data warehousing. 
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- Programming Languages: Python, SQL, Java, React JS, R
+- Phenomics and Genomics: Spark, PySpark, MapReduce, Flask
+- Data Science: Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA
   
 ## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
+- **M.Sc.**, Computer Science (Big Data) | <a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a> (_SEPT 2023 - JUN 2025_)		  		
+- **B.Tech.**, Computer Systems (Database)	| <a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a> (_JAN 2018 - JUN 2023_)	 			        		
+- **B.Sc.**, Computer Science | <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> (_SEPT 2015 - JUN 2017_)
 
 ## 🔬 Research Experience
 **Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
