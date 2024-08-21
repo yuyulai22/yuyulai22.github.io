@@ -53,27 +53,18 @@ Masters in Computer Science, specializing in Big Data, with 2 years of experienc
 - Incorporated a machine learning component in Python that predicts the short-term crime rate for the next month with 90% accuracy.
 - Implemented interactive and responsive map interfaces with geo-location components that allow users to view the crime rate of the closest neighborhood. 
 
-
-**Additional Skills:**
-  
-- Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+**Drone Authentication Project @<a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a>  (_Jan 2023 - May 2023_)**
+- Utilized: React JS, Python, Machine Learning, Git
+- Designed and implemented intrusion detection programs in Python to prevent the prevent the spoofing of drones.
+- Authenticated drone data by implementing K-Nearest Neighbors, Support Vector Machine, and Logistic Regression algorithms in Python then compared and analyzed the results of each algorithm.
+- Built KNN model to authenticate drone data with a high accuracy of 93%.
+- Published findings in an IEEE conference paper.
 
 ## 📜 Publications
 
-1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
-2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
-3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: <a href="https://doi.org/10.3389/fpls.2021.692463" target="_blank">https://doi.org/10.3389/fpls.2021.692463</a>)
-4. Vetriventhan, Mani, Hari D. Upadhyaya, Vania CR Azevedo, Allan Victor, and Seetha Anitha. **"Variability and trait‐specific accessions for grain yield and nutritional traits in germplasm of little millet (_Panicum sumatrense_ Roth. Ex. Roem. & Schult.)."** _Crop Science_ 61, no. 4 (2021): 2658-2679. (DOI: <a href="https://doi.org/10.1002/csc2.20527" target="_blank">https://doi.org/10.1002/csc2.20527</a>)
-5. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: <a href="https://doi.org/10.1016/j.apsoil.2023.105176" target="_blank">https://doi.org/10.1016/j.apsoil.2023.105176</a>).
-6. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: <a href="https://doi.org/10.3390/su15065520" target="_blank">https://doi.org/10.3390/su15065520</a>)
-7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: <a href="https://doi.org/10.1007/s42729-023-01129-2" target="_blank">https://doi.org/10.1007/s42729-023-01129-2</a>)
-8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
-9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
+1. Lai, Yuyu & Norfield, Ryan & Micsoniu, Alexander & Khan, Raziq & Aibin, Michal. (2020). Overlapping Histograms for 3D Data Classification. 10.1109/ICNC47757.2020.9049719. 
+2. Karimibiuki, Mehdi & Aibin, Michal & Lai, Yuyu & Khan, Raziq & Norfield, Ryan & Hunter, Aaron. (2019). Drones' Face off: Authentication by Machine Learning in Autonomous IoT Systems. 10.1109/UEMCON47517.2019.8992931. 
     
-
 
 ## 📞 Contact
 
