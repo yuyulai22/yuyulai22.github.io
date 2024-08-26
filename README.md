@@ -12,10 +12,11 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_May 2024 - Present_)**
-- Designed and implemented data models to support business intelligence initiatives using BigQuery and SQL.
-- Implemented complex data pipelines using Airflow to perform data validation through statistical methods, safeguarding the integrity of downstream data analyses.
-- Troubleshooted and resolved issues while ensuring optimal performance and reliability of critical data pipelines.
+- Implemented efficient data ingestion by executing API calls in PySpark, and engineered data models in SQL to  align with complex business requirements.
+- Developed complex data pipelines using Airflow to perform data validation through statistical methods, safeguarding the integrity of downstream data analyses.
+- Optimized data pipelines by incorporating dynamic SQL, significantly reducing runtime and enhancing overall efficiency.
 - Documented data workflows, processes, and architecture to facilitate knowledge sharing and compliance.
+
 
 **Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**
 - Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
