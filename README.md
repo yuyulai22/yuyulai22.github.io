@@ -2,7 +2,7 @@
 ### _Current Position - Data Engineer Co-op - Samsung R&D Canada_ 
 
 #### Summary: 
-Masters in Computer Science, specializing in Big Data, with 2 years of experience in designing, developing, and optimizing data pipelines and architectures. Proficient in leveraging big data technologies such as Apache Hadoop, Spark, and SQL to drive insights and improve data quality. Demonstrate strong foundation in data modeling, ETL processes, and data warehousing. 
+Master's in Computer Science with a specialization in Big Data and 2 years of hands-on experience in designing, developing, and optimizing data pipelines and architectures. Passionate about using Big Data technologies to uncover meaningful insights to drive data-driven decision-making. Proficient in using technologies like Apache Hadoop, Spark, and SQL to improve data quality. With a strong foundation in data modeling, ETL processes, and data warehousing, I am committed to continually learning and applying new techniques to solve complex problems and deliver impactful results.
 
 #### Technical Skills:
 
