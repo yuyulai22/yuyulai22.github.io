@@ -12,9 +12,9 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_May 2024 - Present_)**
-- Implemented efficient data ingestion by executing API calls in PySpark, and engineered data models in SQL to  align with complex business requirements.
-- Developed complex data pipelines using Airflow to perform data validation through statistical methods, safeguarding the integrity of downstream data analyses.
-- Optimized data pipelines by incorporating dynamic SQL, significantly reducing runtime and enhancing overall efficiency.
+- Designed and built complex data models in BigQuery to align with complex business requirements under tight deadlines, resulting in the only project accepted for presentation to C-level executives.
+- Conducted in-depth research and Proof of Concept (POC) on state-of-the-art open-source data validation tools, presenting findings that led to improvements in the data quality of existing pipelines.
+- Developed and implemented a robust data pipeline using Airflow for statistical data validation, ensuring the accuracy and integrity of data for downstream analysis and decision-making.
 - Documented data workflows, processes, and architecture to facilitate knowledge sharing and compliance.
 
 
