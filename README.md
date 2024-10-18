@@ -7,10 +7,9 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 With a strong foundation in data modeling, ETL processes, and data warehousing, I am committed to continually learning and applying new techniques to solve complex problems and deliver impactful results.
 
 #### Technical Skills:
-
-- Programming Languages: _Python, SQL, Java, React JS, R_
-- Phenomics and Genomics: _Spark, PySpark, MapReduce, Flask_
-- Data Science: _Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA_
+- Programming Languages: _Python, SQL, Java, Scala, R_
+- Data Processing: _Apache Spark, Hadoop, Airflow, Kafka_
+- Cloud & DevOps: _AWS, GCP, Kubernetes_
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
