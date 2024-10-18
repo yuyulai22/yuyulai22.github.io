@@ -13,7 +13,7 @@ With a strong foundation in data modeling, ETL processes, and data warehousing, 
 - Data Science: _Airflow, AWS, BigQuery, Hadoop, Power BI, Git, Informatica, JIRA_
 
 ## 💼 Work experience 
-**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_May 2024 - Present_)**
+**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
 - Designed and built complex data models in BigQuery to align with complex business requirements, resulting in the only project accepted for presentation to C-level executives.
 - Conducted comprehensive research and Proof of Concept (POC) on open-source data validation tools, presenting findings that led to improvements in the data quality of existing pipelines.
 - Automated data quality checks, reducing errors and ensuring data accuracy for analysis.
