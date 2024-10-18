@@ -2,7 +2,9 @@
 ### _Current Position - Data Engineer Co-op - Samsung R&D Canada_ 
 
 #### Summary: 
-Master's in Computer Science with a specialization in Big Data and 2 years of hands-on experience in designing, developing, and optimizing data pipelines and architectures. Passionate about using Big Data technologies to uncover meaningful insights to drive data-driven decision-making. Proficient in using technologies like Apache Hadoop, Spark, and SQL to improve data quality. With a strong foundation in data modeling, ETL processes, and data warehousing, I am committed to continually learning and applying new techniques to solve complex problems and deliver impactful results.
+Master's in Computer Science with a specialization in Big Data and 2 years of hands-on experience in designing, developing, and optimizing data pipelines and architectures. Passionate about using Big Data technologies to uncover meaningful insights to drive data-driven decision-making. Skilled at using technologies like Apache Hadoop, Spark, and SQL to improve data quality. 
+
+With a strong foundation in data modeling, ETL processes, and data warehousing, I am committed to continually learning and applying new techniques to solve complex problems and deliver impactful results.
 
 #### Technical Skills:
 
@@ -12,11 +14,11 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_May 2024 - Present_)**
-- Designed and built complex data models in BigQuery to align with complex business requirements under tight deadlines, resulting in the only project accepted for presentation to C-level executives.
-- Conducted in-depth research and Proof of Concept (POC) on state-of-the-art open-source data validation tools, presenting findings that led to improvements in the data quality of existing pipelines.
-- Developed and implemented a robust data pipeline using Airflow for statistical data validation, ensuring the accuracy and integrity of data for downstream analysis and decision-making.
+- Designed and built complex data models in BigQuery to align with complex business requirements, resulting in the only project accepted for presentation to C-level executives.
+- Conducted comprehensive research and Proof of Concept (POC) on open-source data validation tools, presenting findings that led to improvements in the data quality of existing pipelines.
+- Automated data quality checks, reducing errors and ensuring data accuracy for analysis.
+- Enhanced and optimized Spark jobs to efficiently process large datasets, running statistical models and ensuring data quality through validation before production deployment.
 - Documented data workflows, processes, and architecture to facilitate knowledge sharing and compliance.
-
 
 **Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**
 - Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
