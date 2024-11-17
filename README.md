@@ -4,8 +4,6 @@
 #### Summary: 
 Master's in Computer Science with a specialization in Big Data and 2 years of hands-on experience in designing, developing, and optimizing data pipelines and architectures. Passionate about using Big Data technologies to uncover meaningful insights to drive data-driven decision-making. Skilled at using technologies like Apache Hadoop, Spark, and SQL to improve data quality. 
 
-With a strong foundation in data modeling, ETL processes, and data warehousing, I am committed to continually learning and applying new techniques to solve complex problems and deliver impactful results.
-
 #### Technical Skills:
 - Programming Languages: _Python, SQL, Java, Scala, R_
 - Data Processing: _Apache Spark, Hadoop, Airflow, Kafka_
@@ -13,11 +11,11 @@ With a strong foundation in data modeling, ETL processes, and data warehousing, 
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
-- Designed and built complex data models in BigQuery to align with complex business requirements, resulting in the only project accepted for presentation to C-level executives.
-- Conducted comprehensive research and Proof of Concept (POC) on open-source data validation tools, presenting findings that led to improvements in the data quality of existing pipelines.
-- Automated data quality checks, reducing errors and ensuring data accuracy for analysis.
-- Enhanced and optimized Spark jobs to efficiently process large datasets, running statistical models and ensuring data quality through validation before production deployment.
-- Documented data workflows, processes, and architecture to facilitate knowledge sharing and compliance.
+- Built complex data models to align with business requirements for a POC project, resulting in the only project accepted for presentation to C-level executives in Korea.
+- Designed and built a data pipeline for automating data quality checks, resulting in a significant reduction in data errors. 
+- Implemented and optimized Spark jobs to efficiently process large datasets, running statistical models and ensuring data quality through validation before production deployment.
+- Enhanced statistical models to improve optimization and increase insight clarity, enabling more actionable data-driven decisions
+
 
 **Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**
 - Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
