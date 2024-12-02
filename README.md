@@ -6,8 +6,10 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 
 #### Technical Skills:
 - Programming Languages: _Python, SQL, Java, Scala, R_
-- Data Processing: _Apache Spark, Hadoop, Airflow, Kafka_
-- Cloud & DevOps: _AWS, GCP, Kubernetes_
+- Big Data Frameworks: _Apache Spark, Hadoop, Apache Kafka_
+- Data Services: _Amazon S3, AWS Glue, Google BigQuery, Azure Data Lake Storage, Databricks_
+- Cloud & DevOps: _AWS (S3, Lambda, EC2), GCP (BigQuery, Cloud Storage), Kubernetes_
+
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
