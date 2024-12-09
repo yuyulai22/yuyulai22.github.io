@@ -5,11 +5,11 @@
 Master's in Computer Science with a specialization in Big Data and 2 years of hands-on experience in designing, developing, and optimizing data pipelines and architectures. Passionate about using Big Data technologies to uncover meaningful insights to drive data-driven decision-making. Skilled at using technologies like Apache Hadoop, Spark, and SQL to improve data quality. 
 
 #### Technical Skills:
-- Programming Languages: _Python, SQL, Java, Scala, R_
+- Programming Languages: _Python, SQL, Java, Scala_
 - Big Data Frameworks: _Apache Spark, Hadoop, Apache Kafka_
-- Data Services: _Amazon S3, AWS Glue, Google BigQuery, Azure Data Lake Storage, Databricks_
-- Cloud & DevOps: _AWS (S3, Lambda, EC2), GCP (BigQuery, Cloud Storage), Kubernetes_
-
+- Data Services: _Amazon S3, AWS Glue, Google BigQuery, Azure Data Lake Storage, Microsoft Fabric_
+- Cloud & DevOps: _AWS, GCP (BigQuery, Cloud Storage), Microsoft Azure (Data Factory, Logic Apps)_
+- Visualization Tools: _Power BI_
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
