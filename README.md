@@ -9,16 +9,14 @@ Master's in Computer Science with a specialization in Big Data and 2 years of ha
 - Big Data Frameworks: _Apache Spark, Hadoop, Apache Kafka_
 - Data Services: _Amazon S3, AWS Glue, Google BigQuery, Azure Data Lake Storage, Microsoft Fabric_
 - Cloud & DevOps: _AWS, GCP (BigQuery, Cloud Storage), Microsoft Azure (Data Factory, Logic Apps)_
-- Visualization Tools: _Power BI_
+- Visualization Tools: _Power BI, Tableau_
 
 ## 💼 Work experience 
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Present_)**
--  Built complex data models to align with business requirements for a POC project, resulting in the only project accepted for presentation to C-level executives in HQ.
-- Designed and built a data pipeline for automating data quality checks, resulting in a significant reduction in data errors.
-- Implemented and optimized Spark jobs to efficiently process large datasets, running statistical models and
-ensuring data quality through validation before production deployment.
-- Optimized statistical models to increase insight clarity, leading to more actionable data-driven decisions.
-
+- Built complex data models to align with business requirements for a POC project, resulting in the only project accepted for presentation to C-level executives in HQ.
+- Designed and built a data pipeline to automate data quality checks, resulting in a 90% reduction in data errors. 
+- Implemented and optimized Spark jobs to efficiently process large datasets, running statistical models and ensuring data quality through validation before production deployment.
+- Optimized a statistical model to increase insight clarity, resulting in a 20% increase in actionable insights for anomalous app behavior.
 
 **Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**
 - Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
@@ -29,7 +27,7 @@ ensuring data quality through validation before production deployment.
 
 **Data Solutions Analyst Co-op @ <a href="https://www.worksafebc.com/en" target="_blank">WorkSafeBC</a> (_May 2021 - Apr 2022_)**
 - Identified hundreds of over and underpayments by performing data collection, analysis, and reporting of health care payment data.
-- Applied statistical calculations to determine the ideal sample sizes of health care payment categories using the Z-score of 95% confidence level.
+- Applied statistical calculations to determine the ideal sample sizes of health care payment categories, achieving 95% confidence accuracy.
 - Developed excel macros in VBA to automate payment review process, saving 5 hours of manual work for the team each week.
 
 **Research Assistant in Machine Learning @ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**
