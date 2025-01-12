@@ -21,7 +21,7 @@ _Vancouver, BC_
 -	Optimized a statistical model to increase insight clarity, resulting in a 20% increase in actionable insights for anomalous app behavior.
 -	Redesigned a data processing script to efficiently handle large-scale device-level data, leveraging Spark to build a resource-efficient ETL pipeline in an Agile Scrum environment.
 
-**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  	
+**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  
 _Burnaby, BC_
 -	Assisted students in mastering systems-level programming concepts, including memory management, process control, concurrency, and inter-process communication.
 -	Conducted tutorials and labs to teach efficient coding practices in C and the Unix/Linux environment.
