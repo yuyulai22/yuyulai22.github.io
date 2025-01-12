@@ -54,20 +54,20 @@ _Burnaby, BC_
 
 ## 🏫 Academic Projects
 **Flavour Fusion @<a href="https://www.sfu.ca/" target="_blank">Simon Fraser University</a>  (_Jan 2024 - May 2024_)**
-- Utilized: Python, Scikit-learn, Selenium, Requests, BeautifulSoup
+- _Utilized: Python, Scikit-learn, Selenium, Requests, BeautifulSoup_
 - Developed a Python application utilizing the KNN algorithm to recommend recipes based on user comments and review history with 95% accuracy. 
 - Executed web scraping on recipe websites employing popular libraries such as Selenium, Requests, and BeautifulSoup.
 - Benchmark tested various machine learning models to identify the most effective recommendation system, documenting the results for reference.
 - Scraped flyers from grocery websites to analyze and identify the best deals on required ingredients.
 
 **Crime Rate Prediction Map @<a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a>  (_Jan 2023 - May 2023_)**
-- Utilized: React JS, Python, Machine Learning, Git
+- _Utilized: React JS, Python, Machine Learning, Git_
 - Developed a React JS web application that allows users to view the crime rates of major neighborhoods in Vancouver to increase awareness and safety.
 - Incorporated a machine learning component in Python that predicts the short-term crime rate for the next month with 90% accuracy.
 - Implemented interactive and responsive map interfaces with geo-location components that allow users to view the crime rate of the closest neighborhood. 
 
 **Drone Authentication Project @<a href="https://www.bcit.ca/" target="_blank">British Columbia Institute of Technology </a>  (_Jan 2023 - May 2023_)**
-- Utilized: React JS, Python, Machine Learning, Git
+- _Utilized: React JS, Python, Machine Learning, Git_
 - Designed and implemented intrusion detection programs in Python to prevent the prevent the spoofing of drones.
 - Authenticated drone data by implementing K-Nearest Neighbors, Support Vector Machine, and Logistic Regression algorithms in Python then compared and analyzed the results of each algorithm.
 - Built KNN model to authenticate drone data with a high accuracy of 93%.
