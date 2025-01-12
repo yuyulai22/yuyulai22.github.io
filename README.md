@@ -13,7 +13,7 @@ Master's in Computer Science with a specialization in Big Data and 3 years of ha
 
 ## 💼 Work experience 
 **Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Jan 2025 - Present_)**
-**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Dec 2024_)** \n
+**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Dec 2024_)**  
 _Vancouver, BC_
 -	Built complex data models to align with business requirements for a POC project.
 -	Designed and built a data pipeline to automate data quality checks, resulting in a 90% reduction in data errors. 
@@ -21,13 +21,13 @@ _Vancouver, BC_
 -	Optimized a statistical model to increase insight clarity, resulting in a 20% increase in actionable insights for anomalous app behavior.
 -	Redesigned a data processing script to efficiently handle large-scale device-level data, leveraging Spark to build a resource-efficient ETL pipeline in an Agile Scrum environment.
 
-**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)** \n		
+**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  	
 _Burnaby, BC_
 -	Assisted students in mastering systems-level programming concepts, including memory management, process control, concurrency, and inter-process communication.
 -	Conducted tutorials and labs to teach efficient coding practices in C and the Unix/Linux environment.
 -	Provided individual and group support through office hours and online forums, addressing technical challenges and promoting understanding of course material.
 
-**Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)** \n
+**Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**  
 _Burnaby, BC_
 - Designed and developed Microsoft BI solutions using SSRS, SSIS and SSAS to analyze the performance of the supply chain of healthcare resources in British Columbia.
 - Oversaw the performance of over 200 SSRS and Power BI reports by creating an automated process in SQL that compares the metadata of the reports to the configured schedule to ensure successful execution.
@@ -35,13 +35,13 @@ _Burnaby, BC_
 - Developed SSIS packages to automate ETL processes to support in-hospital replenishment productivity across British Columbia.
 - Facilitated the creation of golden records by building ETL processes to ingest healthcare data from multiple sources.
 
-**Data Solutions Analyst Co-op @ <a href="https://www.worksafebc.com/en" target="_blank">WorkSafeBC</a> (_May 2021 - Apr 2022_)** \n
+**Data Solutions Analyst Co-op @ <a href="https://www.worksafebc.com/en" target="_blank">WorkSafeBC</a> (_May 2021 - Apr 2022_)**  
 _Richmond, BC_
 - Identified hundreds of over and underpayments by performing data collection, analysis, and reporting of health care payment data.
 - Applied statistical calculations to determine the ideal sample sizes of health care payment categories, achieving 95% confidence accuracy.
 - Developed excel macros in VBA to automate payment review process, saving 5 hours of manual work for the team each week.
 
-**Research Assistant in Machine Learning @ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)** \n
+**Research Assistant in Machine Learning @ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
 _Burnaby, BC_
 - Designed and implemented lean proof of concepts to answer targeted research questions regarding energy use and management.
 - Built a short-term load forecasting model in Python to help the maintenance and scheduling of a power system by predicting energy usage.
