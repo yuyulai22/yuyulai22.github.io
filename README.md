@@ -7,25 +7,23 @@ Master's in Computer Science with a specialization in Big Data and 3 years of ha
 #### Technical Skills:
 - Languages: _Python, SQL, Java, Scala, C_
 - ETL: _Apache Spark, PySpark, Hadoop, Informatica_
-- Cloud Platforms: _AWS(S3, EC2, Glue, Redshift, Athena, RDS), Google Cloud Platform, Microsoft Azure_
-- Developer Tools: _Git, JIRA, Visual Studio Code, Jupyter Notebook, ML Flow_
-
+- Cloud & DevOps: _AWS, GCP, Docker, Git, Version Control, JIRA_
+- Backend & Development Tools: _FastAPI, Flask, Databricks, Visual Studio Code, Jupyter Notebook_
 
 ## 💼 Work experience 
-**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Jan 2025 - Present_)**
-**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Institute Canada</a> (_Apr 2024 - Dec 2024_)**  
+**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - Present_)**
+**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - Dec 2024_)**  
 _Vancouver, BC_
--	Developed complex data models to align with business requirements, successfully transforming a POC project into a long-term initiative.
--	Designed and built a data pipeline to automate data quality checks, resulting in a 90% reduction in data errors. 
+-	Worked closely with project managers and UI/UX designers to deliver complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.-	Designed and built a data pipeline to automate data quality checks, resulting in a 90% reduction in data errors. 
 -	Optimized a statistical model to increase insight clarity, resulting in a 20% increase in actionable insights for anomalous app behavior.
 -	Redesigned a data processing script to efficiently handle large-scale device-level data, leveraging Spark to build a resource-efficient ETL pipeline.
 -	Applied advanced statistical techniques to evaluate the effectiveness of heuristic rules in generating device-level insights.
-
+-	Maintained, optimized, and expanded backend infrastructure by proactively debugging critical issues, preventing downtime and broken API calls.
 
 **Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  
 _Burnaby, BC_
 -	Assisted students in mastering systems-level programming concepts, including memory management, process control, concurrency, and inter-process communication.
--	Conducted tutorials and labs to teach efficient coding practices in C and the Unix/Linux environment.
+-	Conducted labs to teach efficient coding practices in C and the Unix/Linux environment.
 -	Provided individual and group support through office hours and online forums, addressing technical challenges and promoting understanding of course material.
 
 **Business Intelligence Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**  
