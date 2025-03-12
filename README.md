@@ -14,11 +14,12 @@ Master's in Computer Science with a specialization in Big Data and 3 years of ha
 **Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - Present_)**
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - Dec 2024_)**  
 _Vancouver, BC_
--	Worked closely with project managers and UI/UX designers to deliver complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.-	Designed and built a data pipeline to automate data quality checks, resulting in a 90% reduction in data errors. 
--	Optimized a statistical model to increase insight clarity, resulting in a 20% increase in actionable insights for anomalous app behavior.
--	Redesigned a data processing script to efficiently handle large-scale device-level data, leveraging Spark to build a resource-efficient ETL pipeline.
--	Applied advanced statistical techniques to evaluate the effectiveness of heuristic rules in generating device-level insights.
--	Maintained, optimized, and expanded backend infrastructure by proactively debugging critical issues, preventing downtime and broken API calls.
+-	Developed an anomaly detection system that automatically identifies and alerts users of device abnormalities with 95% accuracy, enhancing system reliability.
+-	Designed and implemented complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.
+-	Built an automated data quality pipeline, reducing data errors by 98% and ensuring higher data integrity.
+-	Developed pipelines to process and transform terabytes of data, enabling efficient analysis for ML models.
+-	Optimized data science pipelines by modularizing code for reusability and converting workflows to Spark, reducing runtime by 80% through efficient feature engineering and parallelized processing.
+
 
 **Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  
 _Burnaby, BC_
