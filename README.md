@@ -40,7 +40,7 @@ _Richmond, BC_
 - Applied statistical calculations to determine the ideal sample sizes of health care payment categories, achieving 95% confidence accuracy.
 - Developed excel macros in VBA to automate payment review process, saving 5 hours of manual work for the team each week.
 
-**Research Assistant in Machine Learning @ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
+**Machine Learning Research Engineer@ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
 _Burnaby, BC_
 - Designed and implemented lean proof of concepts to answer targeted research questions regarding energy use and management.
 - Built a short-term load forecasting model to predict energy usage, enabling more effective maintenance and scheduling of a power system.
