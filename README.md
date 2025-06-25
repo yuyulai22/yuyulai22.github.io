@@ -12,6 +12,7 @@ Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelin
 
 ## 💼 Work experience 
 **Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - May 2025_)**
+
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - Dec 2024_)**  
 _Vancouver, BC_
 -	Designed and implemented complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.
