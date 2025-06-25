@@ -11,9 +11,7 @@ Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelin
 - Backend & Development Tools: _FastAPI, Kubernetes, Terraform, Flask, Databricks, Visual Studio Code, Jupyter Notebook_
 
 ## 💼 Work experience 
-**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - May 2025_)**
-
-**Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - Dec 2024_)**  
+**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - May 2025_)**
 _Vancouver, BC_
 -	Designed and implemented complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.
 -	Built a statistical anomaly detection system with 95% accuracy across millions of devices; collaborated with stakeholders to formulate the results into a core table, saving support teams hours of manual investigation each week.
