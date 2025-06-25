@@ -2,27 +2,26 @@
 ### _Current Position - Data Engineer - Samsung R&D Canada_ 
 
 #### Summary: 
-Data Engineer with a Master’s in Big Data and 3+ years of experience building scalable ML pipelines, real-time analytics, and cloud solutions. Strong track record of delivering high-impact data systems that bridge engineering, AI, and business goals. 
+Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelines, real-time analytics, and cloud infrastructure. Known for delivering high-impact solutions that bridge data engineering, AI, and business strategy—with strong expertise in Power BI, Tableau, and data storytelling.
 
 #### Technical Skills:
 - Languages: _Python, SQL, Java, Scala, C_
-- ETL: _Apache Spark, PySpark, Kafka, Hadoop, Informatica_
+- ETL & Data Modeling: _Apache Spark, PySpark, Kafka, Hadoop, Informatica, dbt, Snowflake_
 - Cloud & DevOps: _AWS, GCP, Docker, Git, Version Control, JIRA_
 - Backend & Development Tools: _FastAPI, Kubernetes, Terraform, Flask, Databricks, Visual Studio Code, Jupyter Notebook_
 
 ## 💼 Work experience 
-**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - Present_)**
+**Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Jan 2025 - May 2025_)**
 **Data Engineer Co-op @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - Dec 2024_)**  
 _Vancouver, BC_
 -	Designed and implemented complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.
 -	Built a statistical anomaly detection system with 95% accuracy across millions of devices; collaborated with stakeholders to formulate the results into a core table, saving support teams hours of manual investigation each week.
 -	Provisioned and autoscaled Kubernetes clusters (EKS) for ML batch jobs and wrote Terraform modules for S3 + EMR, improving scalability and maintainability of infrastructure.
 -	Engineered pipelines to process terabytes of raw data, accelerating ML model development cycles by 80%.
--	Developed an internal chatbot that allows natural language querying across hundreds of Confluence wiki pages, reducing documentation search time by up to 95%.
 -	Assisted in auditing user-device data flows to identify instances of PII, informing downstream privacy safeguards and increasing readiness for internal privacy compliance
 
 
-**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - Present_)**  
+**Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - May 2025_)**  
 _Burnaby, BC_
 -	Assisted students in mastering systems-level programming concepts, including memory management, process control, concurrency, and inter-process communication.
 -	Conducted labs to teach efficient coding practices in C and the Unix/Linux environment.
