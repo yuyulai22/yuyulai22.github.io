@@ -1,5 +1,5 @@
 # Data Engineer
-### _Current Position - Data Engineer - Samsung R&D Canada_ 
+### _Current Position - Data Developer - Provincial Health Services Authority_ 
 
 #### Summary: 
 Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelines, real-time analytics, and cloud infrastructure. Known for delivering high-impact solutions that bridge data engineering, AI, and business strategy—with strong expertise in Power BI, Tableau, and data storytelling.
@@ -11,14 +11,20 @@ Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelin
 - Backend & Development Tools: _FastAPI, Kubernetes, Terraform, Flask, Databricks, Visual Studio Code, Jupyter Notebook_
 
 ## 💼 Work experience 
+
+**Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_, _Aug 2025 - Present_)**  
+_Burnaby, BC_
+-	Designed and developed automated ETL pipelines with Microsoft ETL tools (ADF, SSIS) to load data from multiple sources into the enterprise data warehouse. 
+-	Implemented data validation workflows to cross-check report metadata against schedule configurations, ensuring timely and accurate data loads for daily executive dashboards.
+-	Collaborated with stakeholders across supply chain leadership to deliver BI dashboards with 99% uptime. 
+-	Engineered near real-time data flows enabling executives to monitor hospital equipment fill rates and proactively prevent critical shortages.
+
 **Data Engineer @ <a href="https://research.samsung.com/srca" target="_blank">Samsung R&D Canada</a> (_Apr 2024 - May 2025_)**
 _Vancouver, BC_
--	Designed and implemented complex data models that align with business requirements, successfully transforming a POC project into a long-term initiative.
--	Built a statistical anomaly detection system with 95% accuracy across millions of devices; collaborated with stakeholders to formulate the results into a core table, saving support teams hours of manual investigation each week.
--	Provisioned and autoscaled Kubernetes clusters (EKS) for ML batch jobs and wrote Terraform modules for S3 + EMR, improving scalability and maintainability of infrastructure.
--	Engineered pipelines to process terabytes of raw data, accelerating ML model development cycles by 80%.
--	Assisted in auditing user-device data flows to identify instances of PII, informing downstream privacy safeguards and increasing readiness for internal privacy compliance
-
+-	Developed an anomaly detection system that automatically identifies and alerts users of device abnormalities with 95% accuracy, enhancing system reliability.
+-	Designed and implemented robust data models that scaled a proof-of-concept into a production-grade solution, adopted as a long-term business initiative.
+-	Built an automated data quality pipeline, reducing data errors by 98% and ensuring higher data integrity.
+-	Optimized data science pipelines by modularizing code for reusability and converting workflows to Spark, reducing runtime by 80% through efficient feature engineering and parallelized processing.
 
 **Teaching Assistant- CMPT 201 Systems Programming @ <a href="http://www.sfu.ca/outlines.html?2025/spring/cmpt/201/d200" target="_blank"> Simon Fraser University</a> (_Jan 2025 - May 2025_)**  
 _Burnaby, BC_
@@ -26,18 +32,11 @@ _Burnaby, BC_
 -	Conducted labs to teach efficient coding practices in C and the Unix/Linux environment.
 -	Provided individual and group support through office hours and online forums, addressing technical challenges and promoting understanding of course material.
 
-**Data Developer @ <a href="http://www.phsa.ca/" target="_blank">Provincial Health Services Authority</a> (_Apr 2022 - Sept 2023_)**  
-_Burnaby, BC_
--	Built BI solutions to analyze healthcare supply chain performance, uncovering critical bottlenecks and informing provincial resource planning.
--	Developed an ETL process to validate report metadata against configured schedules, ensuring 100% of dashboards were updated accurately and on time for daily executive reviews.
--	Designed and maintained executive-level dashboards with 99% data accuracy and uptime, empowering leadership with reliable insights for high-stakes decision-making.
--	Enabled executives to monitor fill rate in real time, helping prevent hospitals from running low on critical equipment.
-
 **Data Solutions Analyst Co-op @ <a href="https://www.worksafebc.com/en" target="_blank">WorkSafeBC</a> (_May 2021 - Apr 2022_)**  
 _Richmond, BC_
 -	Identified hundreds of over and underpayments by performing data collection, analysis, and reporting of health care payment data.
 -	Applied statistical calculations to determine the ideal sample sizes of health care payment categories, achieving 95% confidence accuracy.
--	Developed excel macros in VBA to automate payment review process, saving 5 hours of manual work for the team each week.
+-	Built automated workflows to streamline payment review process, eliminating 5 hours of manual processing each week.
 
 **Machine Learning Research Engineer@ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
 _Burnaby, BC_
@@ -45,7 +44,7 @@ _Burnaby, BC_
 and supporting actionable insights for grid reliability.
 -	Built a short-term load forecasting model to predict energy usage, enabling more effective maintenance and scheduling
 across energy infrastructure.
--	Developed a machine learning pipeline to detect anomalous operating states in a power grid with 95% accuracy
+-	Developed a machine learning pipeline to detect anomalous operating states in a power grid with 95% accuracy.
 
 
 ## 🎓 Education
