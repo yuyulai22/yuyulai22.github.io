@@ -38,7 +38,7 @@ _Richmond, BC_
 -	Applied statistical calculations to determine the ideal sample sizes of health care payment categories, achieving 95% confidence accuracy.
 -	Built automated workflows to streamline payment review process, eliminating 5 hours of manual processing each week.
 
-**Machine Learning Research Engineer@ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
+**Machine Learning Research Assistant@ <a href="https://www.bcit.ca/applied-research/" target="_blank">BCIT Centre for Applied Research & Innovation</a> (_May 2019 - Sept 2020_)**  
 _Burnaby, BC_
 -	Collaborated with utility operators to translate domain requirements into ML features, improving model interpretability
 and supporting actionable insights for grid reliability.
