@@ -2,7 +2,7 @@
 ### _Current Position - Data Developer - Provincial Health Services Authority_ 
 
 #### Summary: 
-Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelines, real-time analytics, and cloud infrastructure. Known for delivering high-impact solutions that bridge data engineering, AI, and business strategy—with strong expertise in Power BI, Tableau, and data storytelling.
+Data Engineer with a Master’s in Big Data, specializing in scalable ML pipelines, real-time analytics, and cloud infrastructure. Known for delivering high-impact solutions that bridge data engineering, AI, and business strategy with strong expertise in Power BI, Tableau, and data modeling.
 
 #### Technical Skills:
 - Languages: _Python, SQL, Java, Scala, C_
